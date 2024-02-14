@@ -24,7 +24,7 @@ All ratings are from single-CPU lists, last updated 2024-01-31.
 | [Smallbrain](https://github.com/Disservin/Smallbrain) 7.0.0 | [Disservin](https://github.com/Disservin) | 3379 | 3458 | Supports FRC & uses self-generated NNUE data. |
 | [chess.cpp](https://github.com/GediminasMasaitis/chess-dot-cpp) 4.0 | [Gedas](https://github.com/GediminasMasaitis) | 3378 | * | Very strong C++ engine, still doesn't have a proper name!! |
 | [BlackCore](https://github.com/SzilBalazs/BlackCore) 6.0 | [Szil](https://github.com/SzilBalazs) | 3376 | 3447 | Very strong NNUE implementation. |
-| [Clarity](https://github.com/Vast342/Clarity) 4.1.0 | [Vast](https://github.com/Vast342) | 3375 | ↓3448 | Qsearch history go brrrrrr |
+| [Clarity](https://github.com/Vast342/Clarity) 4.1.0 | [Vast](https://github.com/Vast342) | ↓3375 | ↓3448 | Qsearch history go brrrrrr |
 | [StockDory](https://github.com/TheBlackPlague/StockDory) Starfish 0.1 | [Shaheryar Sohail](https://github.com/TheBlackPlague) | 3350 | 3401 | C++ rewrite of StockNemo. |
 | [Willow](https://github.com/Adam-Kulju/Willow) 3.1 | [Adam Kulju](https://github.com/Adam-Kulju) | 3340 | 3394 | The world's strongest mailbox engine. It features a net that is trained on games with intentional mistakes, to increase strength and foster an aggressive style of play... or that's the hope, at least. |
 | [Avalanche](https://github.com/SnowballSH/Avalanche) 2.1.0 | [Yinuo Huang](https://github.com/SnowballSH) | 3322 | 3399 | Strongest engine written in Zig. From China. Prioritizes bad captures over quiets... |
