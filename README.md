@@ -10,11 +10,14 @@
 All ratings are from single-CPU lists, last updated 2024-01-31.
 | Engine Name | Author | [CCRL 40/15][ccrl-4015] | [CCRL Blitz][ccrl-blitz] | Notes |
 |-------------|--------|-------------------------|--------------------------|-------|
-| [Caissa](https://github.com/Witek902/Caissa) 1.16 | [Witek902](https://github.com/Witek902) | 3549 | ↓3663 | Written in C++! |
-| [Seer](https://github.com/connormcmonigle/seer-nnue) 2.8.0 | [Connor McMonigle](https://github.com/connormcmonigle) | 3538 | 3650 | Very strong engine, with NNUE trained via retrograde learning on tablebase positions. |
-| [Clover](https://github.com/lucametehau/CloverEngine) 6.1 | [lucametehau](https://github.com/lucametehau) | 3529 | 3640 | Plant. |
+| [Caissa](https://github.com/Witek902/Caissa) 1.17 | [Witek902](https://github.com/Witek902) | ~3601 | ↓3733 | Written in C++! |
+| [Obsidian](https://github.com/gab8192/Obsidian) 1.17 | [gab8192](https://github.com/gab8192) | ~3593 | ↓3733 | Written in C++! |
+| [Seer](https://github.com/connormcmonigle/seer-nnue) 2.8.0 | [Connor McMonigle](https://github.com/connormcmonigle) | 3583 | 3716 | Very strong engine, with NNUE trained via retrograde learning on tablebase positions. |
+| [Clover](https://github.com/lucametehau/CloverEngine) 6.1 | [lucametehau](https://github.com/lucametehau) | 3571 | 3716 | Plant. |
 | [Viridithas](https://github.com/cosmobobak/viridithas) 11.0.0 | [Cosmo Bobak](https://github.com/cosmobobak) | 3496 | 3575 | The strongest UK chess engine and in the running for the strongest Rust chess engine (curse you Black Marlin!!). |
-| [Stormphrax](https://github.com/Ciekce/Stormphrax) 4.0.0 | [Ciekce](https://github.com/Ciekce) | 3472 | 3566 | The second strongest UK chess engine. Successor to Polaris; another NNUE engine that learnt to evaluate from zero knowledge. |
+| [Stormphrax](https://github.com/Ciekce/Stormphrax) 4.1.0 | [Ciekce](https://github.com/Ciekce) | ↓3525 | ↓3643 | The second strongest UK chess engine. Successor to Polaris; another NNUE engine that learnt to evaluate from zero knowledge. |
+| [Lizard](https://github.com/liamt19/Lizard) 10.2 | [liamt19](https://github.com/liam19) | 3500 | 3585 | Written in C#! | 
+eepy
 | [Carp](https://github.com/dede1751/carp) 3.0.1 | [dede1751](https://github.com/dede1751) | 3456 | 3534 | Written in Rust! |
 | [akimbo](https://github.com/jw1912/akimbo) 0.8.0 | [jw1912](https://github.com/jw1912) | 3431 | 3544 | Small engine written in Rust. |
 | [Altair](https://github.com/Alex2262/AltairChessEngine) 6.0.0 | [Antares](https://github.com/Alex2262) | 3427 | 3523 | Star. |
